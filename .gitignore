@@ -1,1 +1,4 @@
 __pycache__
+app/data/cars_file.csv
+app/data/cars_file.zip
+api_operations.log
